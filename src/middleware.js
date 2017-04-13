@@ -1,4 +1,4 @@
-import fetch from 'isomorphic-fetch';
+import fetch from './fetch';
 import isPlainObject from 'lodash.isplainobject';
 
 import CALL_API from './CALL_API';
